@@ -1,7 +1,7 @@
 # Type-Based-Package-Dependency-Analysis
 
-This project mainly focuses on a part of a code analyser that is a Dependency analyser based on type based package.
-To perform the dependency anaylsis I have built :
+ This is a C# based application. This project mainly focuses on a part of a code analyser that is a Dependency analyser based on type based package.
+ To perform the dependency anaylsis I have built :
  1) Typetable which stores the type information for a particular package.
  2) TypeAnalysis : Finds all the types defined in each of a collection of C# source files. 
  It does this by building rules to detect type definitions - classes, structs, enums, and aliases.
@@ -23,6 +23,7 @@ To perform the dependency anaylsis I have built :
  
  # Install this project in your system
  You will need Visual Studio 2015.
+ You should use the .Net System.IO and System.Text for all I/O.
  The project consists of run.bat and compile.bat files. 
  Run.bat - Runs the project. It is required for C# or VB.NET applications.
  Compile.bat - Compiles the project automatically. 
