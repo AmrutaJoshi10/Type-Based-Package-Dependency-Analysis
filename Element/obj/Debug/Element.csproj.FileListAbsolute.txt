@@ -1,0 +1,6 @@
+C:\Users\Amruta\Downloads\Project2\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\Amruta\Downloads\Project2\Element\bin\Debug\Element.dll
+C:\Users\Amruta\Downloads\Project2\Element\bin\Debug\Element.pdb
+C:\Users\Amruta\Downloads\Project2\Element\obj\Debug\Element.dll
+C:\Users\Amruta\Downloads\Project2\Element\obj\Debug\Element.pdb
+C:\Users\Amruta\Downloads\Project2\Element\obj\Debug\Element.csprojAssemblyReference.cache
